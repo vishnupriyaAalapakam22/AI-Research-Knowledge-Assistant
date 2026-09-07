@@ -1,5 +1,7 @@
 # 🔬 AI Research & Knowledge Assistant
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-research-knowledge-assistant-inbtmekvmevnaf9jpfrluy.streamlit.app/)
+
 An AI-powered research assistant that helps users analyze and interact with research papers using **Retrieval-Augmented Generation (RAG)**, semantic search, embeddings, vector databases, and Google Gemini.
 
 Users can upload research papers in PDF format, search across documents, ask research questions, generate summaries, compare papers, and perform literature synthesis through an interactive Streamlit interface.
