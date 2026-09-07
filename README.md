@@ -3,7 +3,20 @@
 An AI-powered research assistant that helps users analyze and interact with research papers using **Retrieval-Augmented Generation (RAG)**, semantic search, embeddings, vector databases, and Google Gemini.
 
 Users can upload research papers in PDF format, search across documents, ask research questions, generate summaries, compare papers, and perform literature synthesis through an interactive Streamlit interface.
+|
+---
 
+## 📸 Application Screenshots
+
+| Main Dashboard & Search | Paper Synthesis & Summarization |
+| :---: | :---: |
+| ![RAG Search UI](assets/01_rag_search_ui.png) | ![Paper Synthesis](assets/02_paper_synthesis.png) |
+
+| Multi-Paper Comparison |
+| :---: |
+| ![Paper Comparison](assets/03_paper_comparison.png) |
+
+---
 ---
 
 ## 🚀 Features
